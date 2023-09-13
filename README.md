@@ -1,7 +1,7 @@
 # simple-pong
 
 ## General Information
-1. Full unity projects are difficult to upload due to file size constraints, so in this repository are the C# scripts for a simple pong game.
+1. Full unity projects are difficult to push to github due to file size constraints, so in this repository are the C# scripts for a simple pong game.
 2. The game starts on the opponent's turn.
 3. The player can be controlled with arrow keys.
 4. When either the player or the opponent scores, the scoreboard will be updated by one point.
